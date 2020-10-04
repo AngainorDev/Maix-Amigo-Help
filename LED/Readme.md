@@ -29,7 +29,7 @@ Here are the correct pins to use (no need for board_info then)
 - LED_B: 17
 - LED_WHITE: 32
 
-## How to light the Maix Amigo flash?
+## How to light the Maix Amigo flash?
 
 ```
 from fpioa_manager import fm
