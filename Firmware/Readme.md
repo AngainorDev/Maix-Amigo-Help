@@ -24,7 +24,7 @@ v0.5.1-92-gf9bb0bb5e-dirty.lvgl.bin
 Same, just no LVGL
 v0.5.1-92-gf9bb0bb5e-dirty.bin
 
-## Compile your own
+## Compile your own
 
 The official doc can be followed: https://github.com/sipeed/MaixPy/blob/master/build.md
 Use recommended kflashgui to flash the firmware https://maixpy.sipeed.com/en/get_started/upgrade_firmware.html
