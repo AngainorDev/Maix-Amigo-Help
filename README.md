@@ -72,7 +72,8 @@ See https://github.com/sipeed/MaixUI/blob/5646aa3899d126e579e99d38bb8020857cd3ab
 
 # LVGL
 
-Demos with touchscreen not working, fix to be published here.
+Demos with touchscreen not working, fix to be published here.  
+See https://github.com/AngainorDev/Maix-Amigo-Help/tree/main/LVGL/
 
 # /flash
 
@@ -82,6 +83,13 @@ Demos with touchscreen not working, fix to be published here.
 # SD Card
 
 - Only support FAT32
+
+
+# Tip when building your firmware
+
+Raise heap from 8000 to F0000 (not sure if we can do even more?)
+
+This will give more ram when using LVGL or many pictures functions, or everything crashes with OOM.
 
 
 # Contributions
